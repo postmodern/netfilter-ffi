@@ -1,19 +1,22 @@
-= libelf-ffi
+= netfilter-ffi
 
-* http://github.com/postmodern/libelf-ffi/
+* http://github.com/postmodern/netfilter-ffi/
 * Postmodern (postmodern.mod3 at gmail.com)
 
 == DESCRIPTION:
 
-Ruby FFI bindings for libelf.
+Ruby FFI bindings for NetFilter libraries.
 
 == FEATURES:
+
+* Supports libnfnetlink.
+* Supports libnetfilter_queue.
 
 == EXAMPLES:
 
 == INSTALL:
 
-  $ sudo gem install libelf-ffi
+  $ sudo gem install netfilter-ffi
 
 == LICENSE:
 
