@@ -7,3 +7,4 @@ lib/netfilter/netlink.rb
 lib/netfilter/netlink/netlink.rb
 lib/netfilter/queue.rb
 lib/netfilter/queue/queue.rb
+lib/netfilter/version.rb
